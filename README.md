@@ -21,7 +21,7 @@ To improve my data science skills, follow my own workflow, build my own models a
 <br>
 
 <p>
-This project is in early development and you can find <a href="#">here</a> the Notebook I used to make my DataVis as well as the first tests of functions and training.
+This project is in early development and you can find <a href="./notebooks/datavis/Moustik_Cam_COCO_Dataset.ipynb">here</a> the Notebook I used to make my DataVis as well as the first tests of functions and training.
 I started this project on Google Colab, before being able to invest in a 3080, that's why the first prototypes (models 1 to 4) were trained on this Notebook.
 
 I'm currently editing the whole thing on PyCharm and will upload it once I have a working workflow to train and compare different models. However, I need to implement metrics first, like mAP (mean Average Precision).
